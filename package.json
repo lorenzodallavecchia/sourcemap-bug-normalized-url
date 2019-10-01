@@ -1,0 +1,12 @@
+{
+  "name": "sourcemap-bug-normalized-url",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack && http-server"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "webpack-cli": "^3.3.9",
+    "webpack": "^4.41.0"
+  }
+}
